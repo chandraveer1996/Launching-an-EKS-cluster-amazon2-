@@ -173,6 +173,7 @@ kubectl apply -f ./nginx-svc.yaml
 Check its status:
 
 kubectl get service
+
 Copy the external DNS hostname of the load balancer, and paste it
 
 
